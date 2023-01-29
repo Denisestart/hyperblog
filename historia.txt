@@ -6,21 +6,8 @@ Tanto en la facu como en los cursos que se me antojen
 
 Master 1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+Master 2
+
 Experimento 1
 
 Experimento 2
-=======
-Master 2
->>>>>>> 4266ba9 (master 2)
-=======
-Master 2
-=======
-Experimento 1
->>>>>>> 575b664 (Exp 1)
->>>>>>> 4b98f5c (Siempre pasa algo)
-=======
-Master 2
->>>>>>> 1f3b70f (Master 2)
