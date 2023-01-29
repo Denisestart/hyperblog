@@ -6,6 +6,10 @@ Tanto en la facu como en los cursos que se me antojen
 
 Master 1
 
+<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
+=======
+Master 2
+>>>>>>> 4266ba9 (master 2)
